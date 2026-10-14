@@ -3,5 +3,12 @@
   "name": "MD Mahmudul Hossain Maahi",
   "message": "Feel free to knock anytime",
   "email": "maahimahmud1950@gmail.com",
-  "facebook": "www.facebook.com/mahmudmaahi"
+  "socials": {
+    "facebook": "https://www.facebook.com/mahmudmaahi",
+    "linkedin": null,
+    "instagram": null,
+    "github": "https://github.com/mahmudmaahi",
+    "twitter": null,
+    "portfolio": null
+  }
 }
